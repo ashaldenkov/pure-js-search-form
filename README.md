@@ -1,1 +1,1 @@
-https://ashaldenkov.github.io/github-api-autocomplete/
+https://ashaldenkov.github.io/pure-js-search-form/
